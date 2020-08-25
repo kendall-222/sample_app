@@ -16,6 +16,13 @@
 # Ignore Byebug command history file.
 .byebug_history
 
+# Ignore node_modules
+node_modules/
+
+# Ignore test && database.yml
+test/
+database.yml
+
 ## Specific to RubyMotion:
 .dat*
 .repl_history

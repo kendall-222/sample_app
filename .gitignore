@@ -19,9 +19,10 @@
 # Ignore node_modules
 node_modules/
 
-# Ignore test && database.yml
+# Ignore test && database.yml && browserslistrc
 test/
 database.yml
+.browserslistrc
 
 ## Specific to RubyMotion:
 .dat*
